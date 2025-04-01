@@ -3,7 +3,7 @@
   <a href="https://portfolio.coveyjorjet.com/" target="_blank">portfolio.coveyjorjet.com</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/portfolio-screenshot.png" />
 </div>
 
 <br/>
